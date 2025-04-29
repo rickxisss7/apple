@@ -1,0 +1,12 @@
+@media (min-width: 0px) and (max-width: 768px) {
+
+    .principal ul {
+        display: none;
+        margin: 0 100px;
+    }
+
+    .principal .menu2 img {
+    display: flex;
+    
+    }
+}
