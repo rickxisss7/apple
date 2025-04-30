@@ -39,10 +39,28 @@
 
     .namewatch h2 {
       position: relative;
-      right: -10px;
+      left: 192px;
+      width: 120px;
     }
 
     .applewatch { 
     margin: 15px 0;
+    }
+
+
+    .macbook img {
+    margin-top: 320px;
+    }
+
+    .macbook {
+    text-align: center;
+    }
+
+    .macbook h1 {
+    position: relative;
+    top: 290px;
+    font-size: 36px;
+    font-family: "Roboto", sans-serif;
+    color: rgb(65, 65, 65);
     }
 }
