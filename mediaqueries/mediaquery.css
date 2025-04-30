@@ -9,4 +9,14 @@
     display: flex;
     
     }
+
+    .conteudo1-btn ul{
+    display: flex;
+    justify-content: center;
+    }
+
+    .conteudo1-btn {
+    text-align: center;
+    margin: 0 auto;
+    }
 }
