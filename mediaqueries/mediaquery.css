@@ -5,9 +5,10 @@
         margin: 0 100px;
     }
 
-    .principal .menu2 img {
+    .principal .mn {
     display: flex;
-    
+    gap: 30px;
+    margin: 0 30px;
     }
 
     .conteudo1-btn ul{
@@ -22,5 +23,11 @@
 
     .conteudo1-btn li {
       text-decoration: none;
+    }
+    
+    .conteudo1-btn .li2:hover {
+    background-color: rgb(12, 115, 199);
+    color: white;
+    transition: 0.3s;
     }
 }
