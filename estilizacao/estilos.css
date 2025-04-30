@@ -154,7 +154,12 @@ text-decoration: none;
     .applewatch {
     position: relative;
     top: 200px;
-    
     text-align: center;
     margin: 0 auto;
     }
+
+
+      a:focus {
+        outline: none;
+        box-shadow:none/* um efeito mais sutil e estilizado */
+      }
