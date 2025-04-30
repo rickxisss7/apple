@@ -36,4 +36,9 @@
      width: 100%;
      height: 10px;
     }
+
+    .namewatch h2 {
+      position: relative;
+      right: -10px;
+    }
 }
