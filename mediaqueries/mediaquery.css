@@ -41,4 +41,8 @@
       position: relative;
       right: -10px;
     }
+
+    .applewatch { 
+    margin: 15px 0;
+    }
 }
